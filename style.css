@@ -1,6 +1,9 @@
 
 h1 {
   font-family: Ariel, serif;
-  color: #00FFFF;
+  color: #FFFFFF;
   font-size: 32px;
+  background-color: #00008B;
+  Border: 3px solid #c0c0c0;
+  text-align: center;
 }
