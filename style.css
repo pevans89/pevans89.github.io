@@ -3,5 +3,5 @@ h1 {
   font-family: Ariel, serif;
   color: #FFFFFF;
   font-size: 32px;
-  background-color: #00008B;
+  border: 2px solid black;
 }
