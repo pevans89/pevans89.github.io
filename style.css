@@ -1,19 +1,20 @@
 body {
   margin: 10px 10px 10px 10px;
   font-family: Ariel, serif;
-  background-image: url("http://cdn.differencebetween.net/wp-content/uploads/2018/01/Difference-between-Coding-and-Programming.jpg");
+  background-image: #000000;
   
 }
   
 h1 {
   font-family: Ariel, serif;
-  color: #00008B;
+  color: #ffffff;
   font-size: 32px;
-  border: 16px solid #C0C0C0
+  border: 16px solid #00008B
   
   
 }
 
 h2 {
+  color: #ffffff
   font: bold 28px serif;
 }
