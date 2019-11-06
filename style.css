@@ -21,6 +21,6 @@ h2 {
 }
 
 .pic {
-  background-image: <img src="AZ.jpg"/>;
+  img src="AZ.jpg";
 }
   
