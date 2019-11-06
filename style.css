@@ -3,6 +3,12 @@ body {
   font-family: Ariel, serif;
   
 }
+
+.pic {
+  background-image: url("https://github.com/pevans89/pevans89.github.io/blob/master/AZ.jpg");
+  width: 400px;
+  height: 220px
+}
   
 h1 {
   font-family: Ariel, serif;
