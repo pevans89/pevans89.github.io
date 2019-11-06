@@ -4,4 +4,6 @@ h1 {
   color: #FFFFFF;
   font-size: 32px;
   background-color: #00008B;
+  padding: 10px 10px;
+  border: 2px solid #C0C0C0
 }
