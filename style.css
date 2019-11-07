@@ -22,6 +22,9 @@ h2 {
   font: bold 28px serif;
 }
 
+h3 {
+  font: 16px italic;
+}
 #frame {
   font-family: serif;
   color: #ffffff;
