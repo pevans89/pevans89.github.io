@@ -2,6 +2,8 @@ body {
   margin: 10px 10px 10px 10px;
   font-family: Ariel, serif;
   background-image: url("https://images.yourstory.com/cs/wordpress/2018/03/coding-job.png?fm=png&auto=format");
+  background-position: 50% 50%;
+  background-repeat: repeat;
   
 }
   
