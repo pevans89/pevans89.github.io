@@ -11,8 +11,7 @@ h1 {
   color: #ffffff;
   font-size: 48px;
   font-stretch: ultra-expanded;
-  border: 5px solid #c0c0c0;
-  border-spacing: 5px 0 5px 0;
+ padding: 5px 0 5px 0;
   
 }
 
@@ -65,6 +64,10 @@ h5 {
 .date {
     float: right;
   }
+.head-border {
+  border: 5px solid #c0c0c0;
+  border-spacing: 5px 0 5px 0;
+}
 
 .border {
   border-bottom: 2px solid #c0c0c0;
