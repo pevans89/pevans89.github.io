@@ -19,7 +19,7 @@ h1 {
 h2 {
   color: #ffffff;
   font: bold 28px serif;
-  padding: 0 0 10px 0
+  padding: 0 0 0 0;
 }
 
 h3 {
@@ -42,7 +42,7 @@ h5 {
 }
 
 .single {
-  line-height: .75;
+  line-height: .50;
 }
   .date {
     float: right;
