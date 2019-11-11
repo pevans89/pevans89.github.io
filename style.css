@@ -51,3 +51,7 @@ h5 {
     float: right;
   }
 
+.border {
+  border-bottom: 2px solid #c0c0c0;
+  border-radius: 2px
+}
