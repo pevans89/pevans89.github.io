@@ -20,8 +20,6 @@ h2 {
   color: #ffffff;
   font: bold 28px serif;
   padding: 0 0 0 0;
-  border-bottom: 2px solid #c0c0c0;
-  border-radius: 6px;
 }
 
 h3 {
@@ -37,13 +35,21 @@ h3 {
 
 h4 {
   font-size: 22px;
-  font-color: #c0c0c0
+  font-color: #c0c0c0;
 }
 h5 {
   font-size: 22px;
   font-weight: italic;
 }
 
+.head-border {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  padding-top: 20px;
+  border-bottom: 1px solid #c0c0c0;
+  
 .single {
   line-height: .50;
 }
