@@ -50,6 +50,7 @@ h5 {
   max-width: 60%;
   min-width: 300px;
   flex: 1;
+  padding-left: 5px;
 }
 
 .main {
@@ -58,7 +59,7 @@ h5 {
 }
   
 .single {
-  line-height: .50;
+  line-height: .60;
 }
 
 .date {
