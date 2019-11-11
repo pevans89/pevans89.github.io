@@ -31,8 +31,7 @@ h3 {
   color: #ffffff;
   margin: 0% auto 0%;
   display: flex;
-  padding-left: 30px;
-  mid-width: 75%;
+  
   
 }
 
@@ -51,7 +50,13 @@ h5 {
   max-width: 25%;
   min-width: 140px;
   flex: 1;
- 
+}
+
+.main {
+  padding-left: 30px;
+  min-width: 75%;
+}
+  
 .single {
   line-height: .50;
 }
