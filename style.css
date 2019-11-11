@@ -30,6 +30,9 @@ h3 {
   font-family: serif;
   color: #ffffff;
   margin: 0% auto 0%;
+  display: flex;
+  padding-left: 30px;
+  mid-width: 75%;
   
 }
 
@@ -43,6 +46,11 @@ h5 {
   font-weight: italic;
 }
 
+.nav {
+  background-color: #c0c0c0;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
  
 .single {
   line-height: .50;
