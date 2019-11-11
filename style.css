@@ -20,6 +20,9 @@ h2 {
   color: #ffffff;
   font: bold 28px serif;
   padding: 0 0 0 0;
+  border-color: #c0c0c0
+  border-bottom: 2px;
+  border-radius: 15px;
 }
 
 h3 {
